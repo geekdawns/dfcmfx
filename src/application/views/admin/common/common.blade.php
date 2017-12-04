@@ -1,0 +1,5 @@
+@include('admin.common.header')
+@include('admin.common.nav')
+@include('admin.common.menu')
+@yield('content')
+@include('admin.common.footer')
