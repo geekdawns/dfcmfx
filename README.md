@@ -1,5 +1,11 @@
 READ ME
 
+#### 使用方法
+
+> composer  初始化
+> 配置 src/application/conf/application.ini  配置数据库
+> src/application/ 建立 cache文件夹 并给 读写权限 （模板缓存）
+
 #### 源码
 
 > src    对应 webroot
@@ -7,6 +13,7 @@ READ ME
 
 #### 后台账号密码
 
+> /admin
 > admin@bropeak.com
 > 111111
 
